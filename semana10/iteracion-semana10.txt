@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+- Registrar incidencias de la comunidad
+- Enviar alertas automáticas por Telegram
+
+¿Por qué son las más importantes?
+Son la base del sistema: sin registro ni aviso, no hay seguimiento ni respuesta oportuna.
+
+Definición de "terminado":
+- Funciona correctamente
+- Fue probada y revisada
+- Quedó registrada en Git

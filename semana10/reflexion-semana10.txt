@@ -1,0 +1,8 @@
+Las metodologías ágiles permiten organizar el trabajo por prioridades y avanzar en pasos pequeños.
+El backlog ayuda a no perder de vista lo importante y adaptarse a las necesidades reales.
+Las iteraciones permiten entregar resultados útiles sin esperar a tener todo listo.
+La automatización con n8n agiliza tareas repetitivas y reduce errores manuales.
+Telegram sirve como canal seguro para notificaciones y coordinación.
+Todo esto hace que la participación ciudadana sea más ordenada y transparente.
+Facilita el trabajo en equipo y permite tomar decisiones basadas en hechos.
+Así la tecnología se convierte en una herramienta útil para la comunidad.
