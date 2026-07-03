@@ -1,0 +1,7 @@
+Evento activador: Se recibe un nuevo reporte o incidencia.
+Mensaje a Telegram: "📢 Nuevo reporte registrado. Ingresa al sistema para revisarlo."
+Información que NO se debe enviar:
+- Números de documento de identidad
+- Teléfonos privados
+- Direcciones exactas
+- Datos personales sensibles
