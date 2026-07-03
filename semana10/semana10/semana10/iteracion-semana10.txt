@@ -1,0 +1,11 @@
+Tareas primeras:
+- Registrar incidencias de la comunidad
+- Enviar alertas automáticas por Telegram
+
+¿Por qué son importantes?
+Son la base del sistema: sin registro ni aviso, no hay seguimiento ni respuesta oportuna.
+
+Definición de "terminado":
+- Funciona correctamente
+- Fue probada y revisada
+- Quedó guardada en el repositorio
